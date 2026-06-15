@@ -1,0 +1,6 @@
+{
+  "name": "EduPlan AI",
+  "description": "Your Personal AI Academic Coach - Transforming study stress into structured success with personalized plans, burnout prevention, and spaced repetition schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
