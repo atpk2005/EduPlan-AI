@@ -20,7 +20,7 @@
 
 <br/>
 
-[🚀 Live Demo](#) · [📖 Documentation](#) · [🐛 Report Bug](#) · [✨ Request Feature](#)
+[🚀 Live Demo](#-live-demo) · [📖 Documentation](#) · [🐛 Report Bug](#) · [✨ Request Feature](#)
 
 </div>
 
@@ -53,6 +53,19 @@ Most students struggle not because they don't want to study — but because they
 - 📈 Tracks your progress in real time
 - 🤖 Assists with doubts using AI
 - 🔄 Continuously adapts until your exam day
+
+---
+
+## 🌐 Live Demo
+
+### 🚀 [Launch EduPlan AI](https://eduplan-ai-804023767702.us-west1.run.app)
+
+Experience the complete EduPlan AI platform:
+- 🧠 AI Study Roadmap
+- 📊 Analytics Dashboard
+- ⏳ Pomodoro Focus Timer
+- 🤖 Study Buddy AI
+- 🔄 Adaptive Scheduling
 
 ---
 
